@@ -1,5 +1,5 @@
 _repo: The-Fortune-of-the-Landrays_52560
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrators:
   - agent_name: Kinney, Troy
@@ -12,6 +12,9 @@ contributor:
     birthdate: 1872
     gutenberg_agent_id: '25250'
     url: http://www.gutenberg.org/2009/agents/25250
+covers:
+- cover_type: archival
+  image_path: 52560-h/images/cover.jpg
 creator:
   author:
     agent_name: Kester, Vaughan
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '1707'
     url: http://www.gutenberg.org/2009/agents/1707
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52560#The-Fortune-of-the-Landrays
 gutenberg_issued: '2016-07-11'
 gutenberg_type: Text
 identifiers:
